@@ -1,3 +1,5 @@
+To run the project: npm run test:focus 
+
 # Demoblaze project  
 Automation project using Puppeteer testing framework, Cucucmber framework and "cucumber-html" reporter.
 # Report ScreenShots    
